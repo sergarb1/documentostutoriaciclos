@@ -1,6 +1,6 @@
 # Documentos para tutoria Ciclos Formativos
 
-***Actualizado - 28/10/2021***
+***Actualizado - 01/09/2021***
 
 Compartimos material relacionado con la tutoría de Ciclos Formativos (Comunidad Valenciana).
 En concreto, la información esta realizada para el segundo curso de semipresencial del CFGS Desarrollo Aplicaciones Multiplataforma, pero es aplicable a otros ciclos formativos.

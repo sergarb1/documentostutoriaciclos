@@ -21,6 +21,8 @@ Aquí tenéis los enlaces al material.
 
 | [Resumen FCT (Formación en Centros de Trabajo)](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/FCT%20Normal%20CheatSheet.pdf) |
 
+| [Resumen uso del SAO (Sistema de Administración On-line para Formación en Centros de Trabajo)](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/FCT%20Normal%20CheatSheet.pdf) |
+
 | [Resumen PFC (Proyecto Fin Ciclo)](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/PFC%20CheatSheet.pdf) |
 
 | [Resumen convocatorias, renuncias y anulaciones](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/Convocatorias%2C%20renuncias%20y%20anulaciones%20-%20CheatSheet.pdf) |
