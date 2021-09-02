@@ -29,6 +29,8 @@ Aquí tenéis los enlaces al material.
 
 | [Resumen Convalidaciones](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/Convalidaciones%20-%20CheatSheet.pdf) |
 
-
 | [Resumen FP Dual](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/FP%20Dual%20CheatSheet.pdf) |
 
+# Recursos variados
+
+| [Ejemplos de comunicaciones alumando en educación a distancia](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/FP%20Dual%20CheatSheet.pdf) |
