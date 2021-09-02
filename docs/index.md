@@ -33,4 +33,4 @@ Aquí tenéis los enlaces al material.
 
 # Recursos variados
 
-| [Ejemplos de comunicaciones alumando en educación a distancia](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/FP%20Dual%20CheatSheet.pdf) |
+| [Ejemplos de comunicaciones alumando en educación a distancia](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/Ejemplo%20Comunicaciones%20Alumnado%20Distancia.pdf) |
