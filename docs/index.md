@@ -1,6 +1,6 @@
 # Documentación para tutoría Ciclos Formativos
 
-***Actualizado - 27/08/2021***
+***Actualizado - 07/09/2021***
 
 Recopilamos información de tutoría aplicable a Ciclos Formativos.
 La información esta contextualizada para un CFGS DAM en Semipresencial en Comunidad Valenciana, pero es exportable fácilmente a otros estudios.
