@@ -12,7 +12,7 @@ Aquí tenéis los enlaces al material.
 
 # Consejos para realizar un estudio óptimo
 
-| [Consejos para realizar un estudio óptimo](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/Presentaci%C3%B3n%20DAM%20Semipresencial%20Serra%20Perenxisa.pdf) |
+| [Consejos para realizar un estudio óptimo](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/Tutor%C3%ADa%20-%20Consejos%20para%20realizar%20un%20estudio%20optimo.pdf) |
 
 # Presentaciones CFGS DAM Semipresencial
 
