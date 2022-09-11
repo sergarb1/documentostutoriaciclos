@@ -1,6 +1,6 @@
 # Documentación para tutoría Ciclos Formativos
 
-***Actualizado - 07/09/2021***
+***Actualizado - 11/09/2022***
 
 Recopilamos información de tutoría aplicable a Ciclos Formativos.
 La información esta contextualizada para un CFGS DAM en Semipresencial en Comunidad Valenciana, pero es exportable fácilmente a otros estudios.
@@ -9,6 +9,10 @@ El material esta compartido bajo **licencia Creative Commons BY-SA-NC** y los fu
 [https://github.com/sergarb1/documentostutoriaciclos/tree/master/documentos](https://github.com/sergarb1/documentostutoriaciclos/tree/master/documentos)
 
 Aquí tenéis los enlaces al material.
+
+# Consejos para realizar un estudio óptimo
+
+| [Consejos para realizar un estudio óptimo](https://github.com/sergarb1/documentostutoriaciclos/raw/master/documentos/Presentaci%C3%B3n%20DAM%20Semipresencial%20Serra%20Perenxisa.pdf) |
 
 # Presentaciones CFGS DAM Semipresencial
 
